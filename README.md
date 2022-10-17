@@ -8,9 +8,11 @@ prox -f filename
 
 * check only one proxy
 ```bash
-prox -p proxy```
+prox -p proxy
+```
 
 * show this menu
 ```bash
-prox --help```
+prox --help
+```
 
