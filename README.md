@@ -1,8 +1,12 @@
 # ProxyChecker
 
-Usage -> prox -f filename - Check file with proxies
+**Usage :**
+* Check file with proxies
+```prox -f filename```
 
-prox -p proxy - check only one proxy
+* check only one proxy
+```prox -p proxy```
 
-prox --help - show this menu
+* show this menu
+```prox --help```
 
