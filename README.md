@@ -2,11 +2,15 @@
 
 **Usage :**
 * Check file with proxies
-```prox -f filename```
+```bash
+prox -f filename
+```
 
 * check only one proxy
-```prox -p proxy```
+```bash
+prox -p proxy```
 
 * show this menu
-```prox --help```
+```bash
+prox --help```
 
